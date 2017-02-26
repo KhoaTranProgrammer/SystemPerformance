@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ButtonArea.qml</file>
+        <file>Global.js</file>
+        <file>CurrentPercentArea.qml</file>
+        <file>HistoryArea.qml</file>
+        <file>CPUDisplay.qml</file>
+        <file>MEMDisplay.qml</file>
+    </qresource>
+</RCC>
